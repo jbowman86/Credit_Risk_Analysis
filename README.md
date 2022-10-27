@@ -134,4 +134,3 @@ In reviewing all six models, the EasyEnsembleClassifer model yielded the best re
 * ClusterCentroids: 54.5% accuracy, 1% precision, 69% recall and 1% F1 Score
 
 Additionally, it should be understood that original dataset had 99% of the applications classified as "Low Risk" with only 1% of the data classified in the "High Risk" category. This may skew results as there is a risk that the machine learning algorithms are creating clusters drawing from a very small dataset of actual "High Risk" applications. The margin of risk created may be greater than some banks would be willing to accept.
-![image](https://user-images.githubusercontent.com/108899985/198388661-d51955e4-f445-42e6-a7d5-ffa0c4c8421d.png)
